@@ -1,1 +1,12 @@
+# Job Tracking Sheet
+
+This folder represents the Google Sheets template
+used to track job applications.
+
+Columns:
+- Job Title
+- Company
+- Platform
+- Status
+- Applied Date
 
