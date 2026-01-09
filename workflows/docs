@@ -1,1 +1,9 @@
+# Architecture Overview
+
+LinkedIn / Job Platforms
+→ Data API (Bright Data)
+→ n8n Automation
+→ Google Sheets (Job Tracker)
+→ AI Filtering (Gemini)
+→ Notion Database
 
